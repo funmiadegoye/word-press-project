@@ -91,9 +91,9 @@ terraform destroy
 
 ## Authors
 
-- [Your Name]
-- [Contributors]
+-Hannah Adegoye
 
 ## License
 
-[Specify your license here]
+MIT Licence
+
